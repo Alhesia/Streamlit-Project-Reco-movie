@@ -14,5 +14,7 @@ Use :
 2 - Read the "Reco - Vecto" file
 3 - Enjoy streamlit
 
+Link : https://s-treamlit-reco-movie-knn-vectorizer.streamlit.app/
+
 Thanks :
-To our teacher, and my group (3 people) to make their part ( one for the vectorizer system and 2 for a powerBI).
+To our teacher, the Creuse county and my group (3 people) to make their part ( one for the vectorizer system and 2 for a powerBI).
